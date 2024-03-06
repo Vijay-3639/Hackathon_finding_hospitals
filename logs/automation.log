@@ -1,0 +1,51 @@
+20:28:54.232 [main] INFO  factory.BaseClass - choosing the organization size and interested option
+20:28:54.724 [main] INFO  factory.BaseClass - verifying the phone field by giving invalid input format
+20:28:55.036 [main] INFO  factory.BaseClass - using boundary value ananlysis to verify the phone field with different input values
+20:28:55.692 [main] INFO  factory.BaseClass - verifying the email field with the invalid inputs
+20:28:57.381 [main] INFO  factory.BaseClass - verifying the visibility of schedule a demo visibilty
+20:28:58.020 [main] INFO  factory.BaseClass - verifying with the valid inputs
+20:28:59.089 [main] INFO  factory.BaseClass - verifying the mail field with the valid inputs
+20:28:59.791 [main] INFO  factory.BaseClass - verifying the visibility of schedule a demo visibilty
+20:29:19.975 [main] INFO  factory.BaseClass - getting the success message
+20:29:20.296 [main] INFO  factory.BaseClass - verifying the success message
+10:09:00.745 [main] INFO  factory.BaseClass - running through chrome
+10:09:00.773 [main] INFO  factory.BaseClass - deleting all the cookies
+10:09:00.780 [main] INFO  factory.BaseClass - applying the implicit wait
+10:09:24.828 [main] INFO  factory.BaseClass - *********** search Test started **********
+10:09:24.829 [main] INFO  factory.BaseClass - entering the search data
+10:09:25.898 [main] INFO  factory.BaseClass - navigating to the doctors page
+10:09:26.480 [main] INFO  factory.BaseClass - search Test got passed
+10:09:26.486 [main] INFO  factory.BaseClass - *********** filter Test started **********
+10:09:26.487 [main] INFO  factory.BaseClass - applying the filters
+10:10:07.323 [main] INFO  factory.BaseClass - applied all the filters
+10:10:07.620 [main] INFO  factory.BaseClass - filter Test got passed
+10:10:07.623 [main] INFO  factory.BaseClass - *********** getDoctorsData Test started **********
+10:10:07.623 [main] INFO  factory.BaseClass - getting the doctors details
+10:10:09.312 [main] INFO  factory.BaseClass - printing the details in the excel
+10:10:09.588 [main] INFO  factory.BaseClass - getDoctorsData Test got passed
+10:10:09.590 [main] INFO  factory.BaseClass - *********** navigateToSurgeries Test started **********
+10:10:09.591 [main] INFO  factory.BaseClass - navigating to the surgeries page
+10:10:12.415 [main] INFO  factory.BaseClass - navigateToSurgeries Test got passed
+10:10:12.416 [main] INFO  factory.BaseClass - *********** getSurgeriesList Test started **********
+10:10:12.416 [main] INFO  factory.BaseClass - scrolling down to the surgeries
+10:10:15.429 [main] INFO  factory.BaseClass - printing the surgeries list in the excel
+10:10:15.928 [main] INFO  factory.BaseClass - getSurgeriesList Test got passed
+10:10:15.930 [main] INFO  factory.BaseClass - *********** navigateToCorporate Test started **********
+10:10:16.138 [main] INFO  factory.BaseClass - navigating to the corporate
+10:10:16.605 [main] INFO  factory.BaseClass - navigateToCorporate Test got passed
+10:10:16.608 [main] INFO  factory.BaseClass - *********** navigateToDemo Test started **********
+10:10:16.608 [main] INFO  factory.BaseClass - selecting heath and wellness
+10:18:48.111 [main] INFO  factory.BaseClass - running through chrome
+10:18:48.147 [main] INFO  factory.BaseClass - deleting all the cookies
+10:18:48.159 [main] INFO  factory.BaseClass - applying the implicit wait
+10:19:14.685 [main] INFO  factory.BaseClass - *********** search Test started **********
+10:19:14.686 [main] INFO  factory.BaseClass - entering the search data
+10:19:16.037 [main] INFO  factory.BaseClass - navigating to the doctors page
+10:19:16.516 [main] INFO  factory.BaseClass - search Test got passed
+10:19:16.533 [main] INFO  factory.BaseClass - *********** filter Test started **********
+10:19:16.534 [main] INFO  factory.BaseClass - applying the filters
+10:21:20.646 [main] INFO  factory.BaseClass - running through chrome
+10:21:20.681 [main] INFO  factory.BaseClass - deleting all the cookies
+10:21:20.692 [main] INFO  factory.BaseClass - applying the implicit wait
+10:21:46.875 [main] INFO  factory.BaseClass - *********** search Test started **********
+10:21:46.877 [main] INFO  factory.BaseClass - entering the search data
