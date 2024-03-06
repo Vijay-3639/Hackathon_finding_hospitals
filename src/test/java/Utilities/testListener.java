@@ -20,10 +20,8 @@ public class testListener implements ITestListener {
 	int  i = 1;
 	
 	public void onStart(ITestContext context) {
-		System.out.println("started");
 		try {
 			properties = BaseClass.getProperties();
-			System.out.println("-");
 		} catch (IOException e) {
 		}
 		logger = BaseClass.getLogger1();

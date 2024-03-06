@@ -1,0 +1,54 @@
+14:32:01.212 [main] INFO  factory.BaseClass - getSurgeriesList Test got failed
+14:32:01.224 [main] INFO  factory.BaseClass - *********** navigateToCorporate Test started **********
+14:32:01.319 [main] INFO  factory.BaseClass - navigating to the corporate
+14:32:01.417 [main] INFO  factory.BaseClass - navigateToCorporate Test got passed
+14:32:01.418 [main] INFO  factory.BaseClass - *********** navigateToDemo Test started **********
+14:32:01.419 [main] INFO  factory.BaseClass - selecting heath and wellness
+14:32:41.972 [main] INFO  factory.BaseClass - navigateToDemo Test got passed
+14:32:41.978 [main] INFO  factory.BaseClass - *********** verifyingPhoneFieldUsingInvalidMobileNumberFormat Test started **********
+14:32:41.979 [main] INFO  factory.BaseClass - verifyingPhoneFieldUsingInvalidMobileNumberFormat Test got skipped
+14:32:41.980 [main] INFO  factory.BaseClass - *********** verifyingPhoneFieldUsingBVA Test started **********
+14:32:41.981 [main] INFO  factory.BaseClass - verifyingPhoneFieldUsingBVA Test got skipped
+14:32:41.982 [main] INFO  factory.BaseClass - *********** verifyingPhoneFieldUsingBVA_1 Test started **********
+14:32:41.983 [main] INFO  factory.BaseClass - verifyingPhoneFieldUsingBVA_1 Test got skipped
+14:32:41.984 [main] INFO  factory.BaseClass - *********** verifyingMobileNumUsingValidInput Test started **********
+14:32:41.985 [main] INFO  factory.BaseClass - verifyingMobileNumUsingValidInput Test got skipped
+14:32:41.987 [main] INFO  factory.BaseClass - *********** verifyingMobileNumUsingValidInput_1 Test started **********
+14:32:41.987 [main] INFO  factory.BaseClass - verifyingMobileNumUsingValidInput_1 Test got skipped
+14:32:41.989 [main] INFO  factory.BaseClass - *********** verifyingMobileNumUsingValidInput_2 Test started **********
+14:32:41.989 [main] INFO  factory.BaseClass - verifyingMobileNumUsingValidInput_2 Test got skipped
+14:32:41.990 [main] INFO  factory.BaseClass - *********** verifyingMobileNumUsingValidInput_3 Test started **********
+14:32:41.990 [main] INFO  factory.BaseClass - verifyingMobileNumUsingValidInput_3 Test got skipped
+14:32:41.992 [main] INFO  factory.BaseClass - *********** verifyingEmailUsingInvalidInput Test started **********
+14:32:41.992 [main] INFO  factory.BaseClass - verifyingEmailUsingInvalidInput Test got skipped
+14:32:41.993 [main] INFO  factory.BaseClass - *********** verifyingEmailUsingInvalidInput_1 Test started **********
+14:32:41.994 [main] INFO  factory.BaseClass - verifyingEmailUsingInvalidInput_1 Test got skipped
+14:32:41.994 [main] INFO  factory.BaseClass - *********** verifyingEmailUsingInvalidInput_2 Test started **********
+14:32:41.994 [main] INFO  factory.BaseClass - verifyingEmailUsingInvalidInput_2 Test got skipped
+14:32:41.996 [main] INFO  factory.BaseClass - *********** verifyingEmailUsingInvalidInput_3 Test started **********
+14:32:41.997 [main] INFO  factory.BaseClass - verifyingEmailUsingInvalidInput_3 Test got skipped
+14:32:41.998 [main] INFO  factory.BaseClass - *********** verifyingEmailUsingValidInput Test started **********
+14:32:41.998 [main] INFO  factory.BaseClass - verifyingEmailUsingValidInput Test got skipped
+14:32:41.999 [main] INFO  factory.BaseClass - *********** verifyScheduleADemoButtonVisibility Test started **********
+14:32:42.000 [main] INFO  factory.BaseClass - verifyScheduleADemoButtonVisibility Test got skipped
+14:32:43.354 [main] INFO  factory.BaseClass - closing the browser
+14:52:18.317 [main] INFO  factory.BaseClass - running through chrome
+14:52:18.336 [main] INFO  factory.BaseClass - deleting all the cookies
+14:52:18.345 [main] INFO  factory.BaseClass - applying the implicit wait
+14:52:20.870 [main] INFO  factory.BaseClass - *********** search Test started **********
+14:52:20.870 [main] INFO  factory.BaseClass - entering the search data
+14:52:21.574 [main] INFO  factory.BaseClass - navigating to the doctors page
+14:52:21.738 [main] INFO  factory.BaseClass - search Test got passed
+14:52:21.742 [main] INFO  factory.BaseClass - *********** filter Test started **********
+14:52:21.743 [main] INFO  factory.BaseClass - applying the filters
+14:52:36.470 [main] INFO  factory.BaseClass - applied all the filters
+14:52:36.572 [main] INFO  factory.BaseClass - filter Test got passed
+14:52:36.574 [main] INFO  factory.BaseClass - *********** getDoctorsData Test started **********
+14:52:36.574 [main] INFO  factory.BaseClass - getting the doctors details
+14:52:37.715 [main] INFO  factory.BaseClass - printing the details in the excel
+14:52:37.860 [main] INFO  factory.BaseClass - getDoctorsData Test got passed
+14:52:37.862 [main] INFO  factory.BaseClass - *********** navigateToSurgeries Test started **********
+14:52:37.862 [main] INFO  factory.BaseClass - navigating to the surgeries page
+14:52:58.032 [main] INFO  factory.BaseClass - navigateToSurgeries Test got failed
+14:52:58.040 [main] INFO  factory.BaseClass - *********** getSurgeriesList Test started **********
+14:52:58.041 [main] INFO  factory.BaseClass - scrolling down to the surgeries

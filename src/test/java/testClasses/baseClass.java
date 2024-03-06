@@ -52,7 +52,6 @@ public class baseClass {
 		  System.out.println("running through edge");
 	  }
 	  else if(browser.equalsIgnoreCase("user_input")) {
-		  System.out.println("initializing---");
 		  BaseClass.initilizeBrowser();
 		  driver = BaseClass.getDriver();
 		  logger = testListener.logger;

@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.net.URL;
 import java.time.Duration;
 import java.util.Properties;
-import java.util.Scanner;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -43,7 +42,6 @@ public class BaseClass {
 			
  
 		} else if (getProperties().getProperty("execution_env").equalsIgnoreCase("local")) {
-			Scanner sc = new Scanner(System.in);
 			logger = getLogger1();
 			String browser = properties.getProperty("browser");
 			
@@ -65,7 +63,6 @@ public class BaseClass {
 		logger.info("deleting all the cookies");
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		logger.info("applying the implicit wait");
-		System.out.println("returning driver");
 		
 	}
  
